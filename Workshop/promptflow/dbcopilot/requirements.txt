@@ -47,7 +47,7 @@ Pillow==9.4.0
 pinecone-client==2.2.1
 portalocker==2.7.0
 pycparser==2.21
-pycryptodomex==3.17
+pycryptodomex==3.19.1
 pydantic==1.10.6
 Pygments==2.14.0
 PyJWT==2.6.0
