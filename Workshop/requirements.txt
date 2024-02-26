@@ -10,7 +10,7 @@ blobfile==2.0.1
 bs4==0.0.1
 jq==1.4.1
 joblib==1.2.0
-langchain==0.0.289
+langchain==0.1.0
 openai==0.27.8
 pandas==1.5.3
 pathos==0.2.9
