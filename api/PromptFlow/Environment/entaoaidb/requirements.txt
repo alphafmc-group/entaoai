@@ -27,7 +27,7 @@ idna==3.4
 importlib-metadata==6.0.0
 isodate==0.6.1
 joblib==1.2.0
-langchain==0.0.289
+langchain==0.1.11
 langchain-experimental==0.0.9
 langsmith==0.0.23
 loguru==0.6.0
