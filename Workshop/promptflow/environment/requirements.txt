@@ -71,7 +71,7 @@ packaging==23.0
 pandas==1.5.3
 pathos==0.2.9
 pdfminer.six==20221105
-Pillow==9.4.0
+Pillow==10.3.0
 pinecone-client==2.2.1
 portalocker==2.7.0
 protobuf==3.20.3
